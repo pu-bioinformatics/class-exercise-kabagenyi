@@ -1,6 +1,8 @@
 Answer the following questions in a New Notebook
 
-1. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
+1. Write a function to convert celcius to fahrenheit
+2. Write a function that given weight and height returns the BMI of the person.
+2. Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old.
 2. Write a function that returns the maximum of two numbers.
 3. Write a function called fizz_buzz that takes a number.
         - If the number is divisible by 3, it should return “Fizz”.
